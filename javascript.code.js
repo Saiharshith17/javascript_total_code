@@ -1,5 +1,6 @@
 var countrieas=["a","b","c","d"];
 console.log(countrieas);
+
 var states=new Array("a","b","c");     //this is the second way of writing an array
 console.log(states);
 console.log(states.length);
