@@ -1,4 +1,3 @@
-
 var countrieas=["a","b","c","d"];
 console.log(countrieas);
 
