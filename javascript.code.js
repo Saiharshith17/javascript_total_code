@@ -7,6 +7,7 @@ console.log(states.length);
 console.log(states[0]);
 console.log(states.indexOf("a"));
 states[0] = "z";
+
 console.log(states);
 console.log(states.pop());
 console.log(states);
