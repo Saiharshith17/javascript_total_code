@@ -13,7 +13,7 @@ states.unshift("a");
 states.unshift("c"); 
 states.unshift("d");
 console.log(states);
-  var result=[2,4,6,8].every((e) => (e%2===0));
+var result=[2,4,6,8].every((e) => (e%2===0));
   console.log(result);
   var result=[2,4,6,8].every((e) => {
     return e%2===0});
