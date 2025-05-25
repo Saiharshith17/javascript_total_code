@@ -3,7 +3,6 @@ console.log(countrieas);
 var states=new Array("a","b","c");     //this is the second way of writing an array
 console.log(states);
 console.log(states.length);
-
 console.log(states[0]);
 console.log(states.indexOf("a"));
 states[0] = "z";
