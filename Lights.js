@@ -1,6 +1,6 @@
 class Light{
 
-  
+
     constructor(location){
         this.location=location;
     }
@@ -32,3 +32,4 @@ class Stereo {
     console.log(`Volume is set to ${level}`);
   }
 }
+
