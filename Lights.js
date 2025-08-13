@@ -15,6 +15,8 @@ class Light{
 
 
 
+
+
 class Stereo {
   on() {
     console.log('Stereo is on');
