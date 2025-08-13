@@ -4,6 +4,9 @@ class MessageQueue{
      this.subscriptions=new Map();
     }
     
+
+
+    
     subscribe(topic,consumer){
         const consumers=this.subscriptions.get(topic)||[];
         if(!consumers.includes(consumer)) consumers.push(consumer);
