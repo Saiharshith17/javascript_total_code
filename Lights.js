@@ -1,4 +1,6 @@
 class Light{
+
+  
     constructor(location){
         this.location=location;
     }
