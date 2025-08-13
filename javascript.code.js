@@ -197,6 +197,9 @@ function withValue(value) {
 // // and
 // Object.defineProperty(obj, "key2", withValue("static"));
 
+
+
+
 // // if freeze is available, prevents adding or
 // // removing the object prototype properties
 // // (value, get, set, enumerable, writable, configurable)
