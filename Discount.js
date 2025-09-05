@@ -13,6 +13,7 @@ class FixedDiscount{
 
 
 class PercentageDiscount{
+    
     constructor(percent){
         this.percent=percent;
     }
