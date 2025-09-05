@@ -7,6 +7,7 @@ class FixedDiscount{
        return finalPrice>0?finalPrice:0;
 
     }
+    
 }
 
 class PercentageDiscount{
